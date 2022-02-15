@@ -1,0 +1,160 @@
+body{
+  background-color: #B1D0E0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+h1{
+  margin-top: 0 ;
+  margin-bottom: 0.625em;
+  text-align: center;
+}
+h4{
+  margin-top: 0 ;
+}
+hr{
+  margin-top: 3.125em;
+  width: 30em;
+  border-style: dashed none none none;
+  border-color: #6998AB;
+}
+progress{
+  margin-left: 1.875em;
+}
+.fixed {
+  position: fixed;
+  top: 0 ;
+  left: 0 ;
+  width: 100%;
+
+  color: #EEE6CE;
+  text-align: center;
+  background-color: #1A374D;
+  padding-top: 0.625em ;
+}
+.div1{
+  position: static;
+  background-color: #2EB086;
+  width: 100% ;
+  padding-bottom: 7.5em;
+  padding-top: 0.625em ;
+}
+.personalinfo{
+
+  color: #171717;
+  margin-top: 6.016625em ;
+  margin-left: 5.3125em ;
+  padding-top: 3.125em;
+}
+.pphoto{
+  float: right;
+  margin-top: 8.75em ;
+  padding-right: 10.9375em;
+}
+.skills{
+  padding-top: 1.5em;
+  font-size: 3.4375em;
+
+  color: #1E212D;
+}
+.mechskill{
+  padding-top: 4.6875em;
+  margin-left: 5.3125em ;
+  font-size: 1.25em;
+}
+.mechanics{
+  float: right;
+  background-color: #313552;
+  height: 15.625em ;
+  width: 15.625em;
+  margin-right: 10.9375em;
+  margin-top: 6em;
+}
+.mechanics:hover{
+  background-color: #B1D0E0;
+}
+.silldiv{
+  padding-top:  8.125em;
+  margin-left: 5.3125em ;
+  margin-bottom: 16.875em;
+}
+.pg2{
+  margin-left: 2.8125em;
+}
+.starillu{
+  margin-left: 0.8125em;
+}
+.codskill{
+  font-size: 1.5em ;
+}
+.hh2{
+  padding-top: 3.75em;
+}
+.codimg{
+  float: left;
+  height: 21.875em;
+  width: 21.875em;
+  margin-right: 40em;
+  margin-left: 10em;
+}
+.codimg:hover {
+  background-color: #313552;
+}
+.skilldiv2{
+  margin-left: 5.3125em;
+  margin-top: 5.3125em;
+  margin-bottom: 9.375em;
+}
+.graphskill{
+  font-size: 1.375em;
+}
+.Photoshopimg{
+  float: right;
+  height: 15.625em;
+  width: 15.625em;
+  margin-right: 12.5em;
+  background-color: #313552;
+}
+.Photoshopimg:hover{
+  background-color: #B1D0E0;
+}
+.hh3{
+  padding-top: 5.625em;
+}
+.contact{
+  background-color: #B8405E;
+  padding-top: 4.0625em;
+  text-align: center;
+}
+.hh4{
+  padding-bottom: 0.55em;
+  font-size: 3.4375em;
+  color: #EEE6CE;
+}
+.email{
+  padding-bottom: 1.875em;
+  color: #EEE6CE;
+}
+.faceimg{
+  height: 5.3125em;
+  width: 5.3125em;
+}
+.faceimg:hover {
+  background-color: #40b89a;
+}
+.linkimg{
+  height: 5.3125em;
+  width:5.3125em;
+}
+.linkimg:hover{
+  background-color: #40b89a;
+}
+.contable{
+  margin-left: auto;
+  margin-right: auto;
+  border-spacing: 3.125em 0 ;
+  color: #EEE6CE;
+  padding-bottom: 2.5em;
+}
+.line1{
+  margin-top: 4.6875em ;
+}
